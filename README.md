@@ -8,6 +8,6 @@ G - Golden carrot
 C - Chorus fruit
 Z - Empty space
 
-Z G Z
-Z C Z
-Z G Z
+*Z G Z
+*Z C Z
+*Z G Z
