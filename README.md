@@ -6,8 +6,7 @@ Crafting recipe:
 
 G - Golden carrot
 C - Chorus fruit
-Z - Empty space
-
+Z - Empty space/n
   Z G Z
   Z C Z
   Z G Z
