@@ -1,0 +1,4 @@
+name: GCRecall
+version: '1.0-SNAPSHOT'
+main: org.glowingcubes.gCRecall.GCRecall
+api-version: '1.21'
