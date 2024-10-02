@@ -4,9 +4,10 @@ Add's terraria like recall potion to minecraft
 
 Crafting recipe:
 
-G - Golden carrot
-C - Chorus fruit
-Z - Empty space/n
-  Z G Z
-  Z C Z
-  Z G Z
+G - Golden carrot </br>
+C - Chorus fruit </br>
+Z - Empty space </br>
+
+  Z G Z </br>
+  Z C Z </br>
+  Z G Z </br>
